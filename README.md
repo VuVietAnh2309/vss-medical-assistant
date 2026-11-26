@@ -19,17 +19,17 @@ Mô hình đã được tinh chỉnh với tập dữ liệu **instruction_v2** 
 ### Bước 1: Clone repository
 
 ```bash
-!git clone https://github.com/VuVietAnh2309/VA-VSS.git
+!git clone https://github.com/VuVietAnh2309/vss-medical-assistant.git
 ```
 
 ### Bước 2: Di chuyển vào thư mục dự án
 ``` bash
-%cd /content/VA-VSS
+%cd /content/vss-medical-assistant
 ```
 
 ### Bước 3: Cài đặt các gói phụ thuộc
 ``` bash
-!pip install -r /content/VA-VSS/requirments.txt
+!pip install -r /content/vss-medical-assistant/requirments.txt
 ```
 
 ### Bước 4: Chạy ứng dụng
